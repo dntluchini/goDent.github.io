@@ -4,6 +4,10 @@
     box-sizing: border-box;  
     font-family:'Quicksand', sans-serif;
 }
+
+a {
+    color : #fff;
+}
 body {
     display: flex;
      flex-direction: column;
