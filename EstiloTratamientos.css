@@ -110,7 +110,6 @@ nav li a.active, nav li a:hover{
 }
 
 a:visited {
-    color: white;
     display: block;
 }
 
@@ -226,10 +225,7 @@ a:visited {
 }
 
 /* Fin footer */
-a:visited {
-    color: white;
-    display: block;
-}
+
 
 
 
