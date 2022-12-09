@@ -76,6 +76,7 @@ nav ul li a {
         -moz-transition: all .5s ease;
         -ms-transition: all .5s ease;
         -o-transition: all .5s ease;
+        color: #fff;
 }
     nav ul li{
     display: block;
@@ -121,6 +122,7 @@ h1 {
     padding: 20px 50px;
     position: absolute;
     cursor: default;
+    color: #fff;
 }
  
 
@@ -291,6 +293,7 @@ iframe{
 
 /* Fin footer */
 a:visited {
+   
     display: block;
 }
 

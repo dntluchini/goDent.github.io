@@ -5,11 +5,6 @@
     font-family:'Quicksand', sans-serif;
 }
 
-
-a {
-    color : #fff;
-}
-
 body {
     display: flex;
      flex-direction: column;
@@ -26,6 +21,7 @@ h1 {
     padding: 20px 50px;
     position: absolute;
     cursor: default;
+    color: #fff;
 }
 
 nav{
@@ -111,10 +107,7 @@ nav li a.active, nav li a:hover{
 
 }
 
-a:visited {
-    color: white;
-    display: block;
-}
+
 
 
 .pie-pagina {
@@ -229,6 +222,11 @@ a:visited {
 }
 
 /* Fin footer */
+a:visited {
+    color: white;
+    display: block;
+}
+
 
 
 #menuRedes ul li a:hover {

@@ -4,10 +4,6 @@
     box-sizing: border-box;  
     font-family:'Quicksand', sans-serif;
 }
-
-a {
-    color : #fff;
-}
 body {
     display: flex;
      flex-direction: column;
@@ -23,6 +19,7 @@ h1 {
     padding: 20px 50px;
     position: absolute;
     cursor: default;
+    color: #fff;
 }
 
 nav{
@@ -84,6 +81,7 @@ nav ul li a {
         left: -100%;
         text-align: center;
         transition: all .5s;
+        color: #fff;
 }
     nav ul li{
     display: block;
@@ -108,10 +106,7 @@ nav li a.active, nav li a:hover{
 
 }
 
-a:visited {
-    color: white;
-    display: block;
-}
+
 
 .pie-pagina {
     width: 100%;
