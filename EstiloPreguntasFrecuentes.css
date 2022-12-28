@@ -11,6 +11,10 @@ body {
      background-color: #095b91;
 }
 
+a:link {
+    color : #fff;
+}
+
 
 h1 {
     margin: 10px;
